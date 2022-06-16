@@ -115,7 +115,6 @@ $(document).ready(function(){
         slidesToShow: 3,
         slidesToScroll: 1,
         asNavFor: '.sl',
-        dots: true,
         centerMode: false,
         focusOnSelect: true,
         arrow: false,
